@@ -462,3 +462,8 @@ TSWLatexianTemp*
 #*Notes.bib
 
 **/out/
+
+wandb
+
+hw5/dataset
+hw5/*.tar
