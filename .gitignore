@@ -467,3 +467,7 @@ wandb
 
 hw5/dataset
 hw5/*.tar
+
+hw6/large_prepared_data
+hw6/HW6_Contrastive_learning_ver_2024_(student_version)_files
+hw6/HW6_Contrastive_learning_ver_2024_(student_version).tex
